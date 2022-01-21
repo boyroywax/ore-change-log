@@ -1,7 +1,7 @@
 # ore-change-log
 Function and feature changes made to ORE Network, ID, and Vault.
 
-## January 21
+## January 21, 2022
 
 ### Major changes
 * UTX Network added to blockchain roster.
